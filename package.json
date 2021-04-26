@@ -1,0 +1,30 @@
+{
+  "name": "nsw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "discord-welcome": "^2.0.2",
+    "discord-ytdl-core": "^5.0.2",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "i18n": "^0.13.2",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.7",
+    "packages": "0.0.8",
+    "simple-youtube-api": "^5.2.1",
+    "soundcloud-downloader": "^1.0.0",
+    "yt-search": "^2.8.0",
+    "ytdl-core": "^4.5.0",
+    "ytpl": "^2.1.1",
+    "ytsr": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
